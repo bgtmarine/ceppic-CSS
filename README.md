@@ -29,4 +29,4 @@ a:hover permet de survoler un élément
 
 font familly dans body permet de changer le type d'écriture
 
-@import url("../ chercher le dossier et le style d'écriture") 
+@font-face("../ chercher le dossier et le style d'écriture") 

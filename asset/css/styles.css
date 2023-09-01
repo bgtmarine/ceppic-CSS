@@ -1,4 +1,7 @@
-@import url("../font/Roboto-Regular.ttf")screnn;
+@font-face {
+    font-family: Roboto;
+    src: url(../font/Roboto-Regular.ttf);
+}
 
 
 *{
