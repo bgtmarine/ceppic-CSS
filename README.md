@@ -18,3 +18,9 @@ ressources
 
 
  border-bottom (nombre de pexels) (type de ligne) permet de d'inserer une ligne ajouter solid pour dusir la ligne et 
+
+ #paragraphe ( permet de baliser un élément unique)
+
+ a permet de changer les couleur des lien
+
+ 
