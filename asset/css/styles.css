@@ -7,3 +7,20 @@ body {
   color: rgb(24, 19, 27);
   background-color: rgb(245, 214, 236);
 }
+
+header {
+    color: aquamarine;
+    background-color: black;
+}
+p {
+    color: rgb(194, 38, 38);
+}
+h2 {color: blueviolet;}
+
+.titre {
+    color: rgb(216, 129, 16);
+}
+
+.titre2 {
+border-bottom: 1px solid red ;
+}
