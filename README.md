@@ -21,6 +21,10 @@ ressources
 
  #paragraphe ( permet de baliser un élément unique)
 
- a permet de changer les couleur des lien
+ a ou a:link permet de changer les couleur des lien 
 
- 
+ a:visited{} permet de modifier la couleur un fois le lien visite
+
+a:hover permet de survoler un élément
+
+font familly dans body permet de changer le type d'écriture

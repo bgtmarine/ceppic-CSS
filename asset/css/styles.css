@@ -6,6 +6,7 @@
 body {
   color: rgb(221, 204, 231);
   background-color: rgb(245, 214, 236);
+  font-family: 'Roboto', sans-serif;
 }
 
 header {
@@ -38,4 +39,13 @@ a {
 a:visited {
 color: blueviolet;
 text-decoration: underline;
+}
+
+a:hover{
+    color: black;
+}
+
+p:hover{
+    color: black;
+    background-color: ;
 }
