@@ -22,15 +22,28 @@ header {
 p {
     color: rgb(34, 7, 65);
 }
-h2 {color: blueviolet;}
+h1, h2 {color: blueviolet;
+font-family: Arial, sans-serif;
+font-weight:900;
+font-style: italic;}
 
-.titre {
+/* h1 {background: url("../css/pexels-işıl-18038700.jpg")no-repeat;
+padding-left: 1px ;} */
+
+header img, header h1{
+    display: inline-block;
+}
+header img {
+    width: 10%;
+}
+
+/* .titre {
     color: rgb(192, 19, 76);
 }
 
 .titre2 {
 border-bottom: 1px solid rgb(116, 7, 131) ;
-}
+} */
 
 #paragraphe {
     border: solid 1px black ;
@@ -55,3 +68,4 @@ p:hover{
     color: black;
     background-color: blanchedalmond ;
 }
+img{width: 20%;}
